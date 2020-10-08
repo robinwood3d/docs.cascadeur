@@ -1,4 +1,4 @@
-# 导入
+# 导入 FBX/DAE
 
 
 >**本页内容**
@@ -23,7 +23,7 @@ Cascadeur支持 **FBX** 和 **DAE** 文件，因此您可以从其他软件导�
 目前Cascadeur每个网格最多仅支持128个关节。  
 此限制将在以后的版本中删除。但是当前版本可以通过以下方法来规避此限制：
 
-[**关节限制及其处理方法**](JointLimitAndHowToDealWithIt.md)
+[**关节限制及其处理方法**](joint_limit_and_how_to_deal_with_it.md)
 
 ## 导入外部对象
 
@@ -117,14 +117,14 @@ tex_000.png，tex_001.png，tex_002 .png等
 
 - **从虚幻引擎导入错误**
 
-如果您在尝试将动画从虚幻引擎导入Cascadeur时遇到问题，请查阅[此页面](ImportAnimationFromUE.md)。
+如果您在尝试将动画从虚幻引擎导入Cascadeur时遇到问题，请查阅[此页面](import_animation_from_ue.md)。
 
 ## 参阅
 
-[关节限制及其应对方法](JointLimitAndHowToDealWithIt.md)
+[关节限制及其应对方法](joint_limit_and_how_to_deal_with_it.md)
 
-[导出](Export.md)
+[导出](export_fbxdae.md)
 
-[从虚幻引擎导入动画](ImportAnimationFromUE.md)
+[从虚幻引擎导入动画](import_animation_from_ue.md)
 
-[从Blender中导入动画](ImportFromBlender.md)
+[从Blender中导入动画](import_from_blender.md)

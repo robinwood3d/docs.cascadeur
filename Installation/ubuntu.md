@@ -1,6 +1,6 @@
 # Ubuntu
 
-本页提供有关在**Ubuntu**操作系统上安装Cascadeur的说明。建议在安装之前确保系统满足[系统要求](SystemRequirements.md)。
+本页提供有关在**Ubuntu**操作系统上安装Cascadeur的说明。建议在安装之前确保系统满足[系统要求](system_requirements.md)。
 
 ## 安装
 1. 下载包含程序文件的压缩文件
@@ -12,8 +12,8 @@
 
 ## 参阅
 
-[系统要求](SystemRequirements.md)
+[系统要求](system_requirements.md)
 
-[安装Cascadeur](Installation.md)
+[安装Cascadeur](installation.md)
 
-[快速入门](../GettingStarted/GettingStarted.md)
+[快速入门](../GettingStarted/getting_started.md)

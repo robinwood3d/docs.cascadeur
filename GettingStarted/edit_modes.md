@@ -75,7 +75,7 @@
 			<p><a href="https://cascadeur.com/help/category/42">弹射轨迹</a></p>
 			<p><a href="https://cascadeur.com/help/category/44">支点</a></p>
 			<p><a href="https://cascadeur.com/help/category/40">角动量可视器</a></p>
-			<p><a href="https://cascadeur.com/help/category/40#angmom_ghosts">角动量幽灵视图</a></p>
+			<p><a href="https://cascadeur.com/help/category/40#angmom_ghosts">角动量重影视图</a></p>
 			<p><a href="https://cascadeur.com/help/category/41">支点作用力</a></p>
 			</td>
 			<td>
@@ -115,6 +115,6 @@
 
 [绑定结构]()
 
-[场景](Scenes.md)
+[场景](scenes.md)
 
 [操纵工具]()

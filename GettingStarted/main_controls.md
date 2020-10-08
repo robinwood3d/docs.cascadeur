@@ -65,6 +65,6 @@
 
 ## 参阅
 
-[场景](Scenes.md)
+[场景](scenes.md)
 
-[编辑模式](EditModes.md)
+[编辑模式](edit_modes.md)

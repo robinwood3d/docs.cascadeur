@@ -42,4 +42,4 @@
 
 ## 参阅
 
-[安装Cascadeur](Installation.md)
+[安装Cascadeur](installation.md)

@@ -22,7 +22,7 @@
 ![](https://cascadeur.com/images/category/2020/03/24/d6221cd90f549431f4d3566f226bcbae.png)
 
 3. 选择包含模型的文件  
-该文件应为二进制FBX格式。查阅[此处](Export.md)关于文件格式
+该文件应为二进制FBX格式。查阅[此处](export_fbxdae.md)关于文件格式
 
 4. 将会出现**FBX导入选项**窗口  
 ![](https://cascadeur.com/images/category/2020/03/24/ce84037d5493fb939b9d2c0c4c5cd764.jpg)
@@ -55,7 +55,7 @@
 ![](https://cascadeur.com/images/category/2020/03/24/d6221cd90f549431f4d3566f226bcbae.png)
 
 3. 选择包含模型的文件  
-该文件应为二进制FBX格式。查阅[此处](Export.md)关于文件格式
+该文件应为二进制FBX格式。查阅[此处](export_fbxdae.md)关于文件格式
 
 4. 将会出现**FBX导入选项**窗口  
 ![](https://cascadeur.com/images/category/2020/03/24/ce84037d5493fb939b9d2c0c4c5cd764.jpg)
@@ -93,7 +93,7 @@
 ![](https://cascadeur.com/images/category/2020/03/24/d6221cd90f549431f4d3566f226bcbae.png)
 
 3. 选择包含模型的文件  
-该文件应为二进制FBX格式。查阅[此处](Export.md)关于文件格式
+该文件应为二进制FBX格式。查阅[此处](export_fbxdae.md)关于文件格式
 
 4. 将会出现**FBX导入选项**窗口  
 ![](https://cascadeur.com/images/category/2020/03/24/ce84037d5493fb939b9d2c0c4c5cd764.jpg)
@@ -153,4 +153,4 @@
 
 ## 参阅
 
-[导出](Export.md)
+[导出](export_fbxdae.md)

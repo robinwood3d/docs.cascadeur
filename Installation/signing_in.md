@@ -36,4 +36,4 @@
 3. 根据提示进行下一步操作
 
 ## 参阅
-[快速入门](../GettingStarted/GettingStarted.md)
+[快速入门](../GettingStarted/getting_started.md)

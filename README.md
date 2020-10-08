@@ -9,11 +9,11 @@ Cascadeur是一款无需动作捕捉即可创建角色动画的软件。使用�
 
 ## Cascadeur的新功能
 
-在最新版本**2020.1b**中：
-- 性能提升
-- 大量错误修复
-- [角色绑定](https://cascadeur.com/help/category/45)功能改进
-- [绑定工具](https://cascadeur.com/help/category/61)的新特性
+在最新版本**2020.2b**中：
+- [快速绑定工具]()
+- 改进[区间编辑模式]()
+- 改进[弹道轨迹工具]()
+- 修复大量漏洞
 
 有关更改和改进的完整列表，见[发行说明](https://cascadeur.com/help/category/109)。
 
@@ -29,28 +29,28 @@ Cascadeur是一款无需动作捕捉即可创建角色动画的软件。使用�
 	<tbody>
 		<tr>
 			<td style="width:265px">
-			<h4><a href="Installation/Installation.md"><strong>安装Cascadeur</strong></a></h4>
+			<h4><a href="Installation/installation.md"><strong>安装Cascadeur</strong></a></h4>
 			</td>
 			<td>
-			<h4><a href="GettingStarted/GettingStarted.md"><strong>Cascadeur入门</strong></a></h4>
+			<h4><a href="GettingStarted/getting_started.md"><strong>Cascadeur入门</strong></a></h4>
 			</td>
 			<td style="width:265px">
-			<h4><a href="https://cascadeur.com/help/category/9"><strong>用户界面指南</strong></a></h4>
+			<h4><a href="Interface/interface.md"><strong>用户界面指南</strong></a></h4>
 			</td>
 		</tr>
 		<tr>
 			<td style="width:265px">
-			<h4><a href="Installation/Installation.md"><strong><img alt="" src="https://cascadeur.com/images/category/2020/01/15/a391a317da9ee1e6e092a85ac3d61780.png" style="height:145px; width:310px"></strong></a></h4>
+			<h4><a href="Installation/installation.md"><strong><img alt="" src="https://cascadeur.com/images/category/2020/01/15/a391a317da9ee1e6e092a85ac3d61780.png" style="height:145px; width:310px"></strong></a></h4>
 			</td>
 			<td style="width:265px">
-			<h4><a href="GettingStarted/GettingStarted.md"><img alt="" src="https://cascadeur.com/images/category/2020/01/15/0b90c607b75474b806d51e22e312682b.png" style="height:145px; width:310px"></a></h4>
+			<h4><a href="GettingStarted/getting_started.md"><img alt="" src="https://cascadeur.com/images/category/2020/01/15/0b90c607b75474b806d51e22e312682b.png" style="height:145px; width:310px"></a></h4>
 			</td>
 			<td style="width:265px">
-			<h4><a href="http://cascadeur.com/help/category/9"><img alt="" src="https://cascadeur.com/images/category/2019/11/12/3b7c71b2252834ff92e65f8f7b86b8fe.png" style="height:145px; width:310px"></a></h4>
+			<h4><a href="Interface/interface.md"><img alt="" src="https://cascadeur.com/images/category/2019/11/12/3b7c71b2252834ff92e65f8f7b86b8fe.png" style="height:145px; width:310px"></a></h4>
 			</td>
 		</tr>
 		<tr>
-			<td style="width:265px">如何&nbsp;<a href="Installation/Installation.md">安装Cascadeur</a>&nbsp;及其&nbsp;<a href="https://cascadeur.com/help/category/6">系统要求</a></td>
+			<td style="width:265px">如何&nbsp;<a href="Installation/installation.md">安装Cascadeur</a>&nbsp;及其&nbsp;<a href="Installation/system_requirements.md">系统要求</a></td>
 			<td>开始使用Cascadeur的快速入门指南</td>
 			<td style="width:265px">Cascadeur用户界面完整概述</td>
 		</tr>

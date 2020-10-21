@@ -38,13 +38,13 @@
 
 - 通过选择一个帧并按*Add or remove frame*按钮（或者快捷键![](https://cascadeur.com/images/category/2019/06/049742a6e8486bc5bfad3400116b71e785.png)）来创建新关键帧。 
 
-- 通过选择多个帧并按![](https://cascadeur.com/images/category/2019/06/042f0eb6ef388167ff923ac76922e0704d.png)+![](https://cascadeur.com/images/category/2019/06/0436595e8d398df9b116627d8c7ac7ccae.png)创建几个关键点
+- 通过选择多个帧并按![](https://cascadeur.com/images/category/2019/06/042f0eb6ef388167ff923ac76922e0704d.png)+![](https://cascadeur.com/images/category/2019/06/0436595e8d398df9b116627d8c7ac7ccae.png)创建多个关键帧
 
 - 在按住![](https://cascadeur.com/images/category/2019/06/04cfe0776123e21bfe6d7baa27f673d252.png)的同时按![](https://cascadeur.com/images/category/2019/06/0460063bbab5fc03c0c91d5cb028cf3ff9.png)或![](https://cascadeur.com/images/category/2019/06/044c16c74b1f2ed42fc5335732efcdfee4.png)在关键帧之间跳转
 
 - 在按住![](https://cascadeur.com/images/category/2019/06/04eef31650d9587e41cf7df4d9294ba9c9.png)键的同时选择并拖动，将一个关键帧（或一组关键帧）移动到时间轴上的其他位置 
 
-***注意1：*** 如果将一个关键帧移动到另一个关键帧的上，则另一个关键点将被删除并替换为移动的关键帧
+***注意1：*** 如果将一个关键帧移动到另一个关键帧的上，则另一个关键帧将被删除并替换为移动进来的关键帧
 
 ***注意2：*** 时间轴中的第一个关键帧无法移动。如果尝试移动它，则将创建它的副本（这是因为时间轴应以关键帧为开始帧）
 
@@ -54,7 +54,7 @@
 
 ![](https://cascadeur.com/images/category/2019/04/24e9725195c1d19dc4a1d4ea016c0fbae1.gif)
 
-- 轨道
+## 轨道
 
 时间轴还可以被分为多个[**动画轨道**]()从而使工作流程更加便捷。
 

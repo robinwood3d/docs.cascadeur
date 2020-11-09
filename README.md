@@ -64,7 +64,7 @@ Cascadeur是一款无需动作捕捉即可创建角色动画的软件。使用�
 			<h4><a href="Tools/tools.md"><strong>工具</strong></a></h4>
 			</td>
 			<td>
-			<h4><a href="https://cascadeur.com/help/category/46"><strong>动画指南</strong></a></h4>
+			<h4><a href="Animation/animation.md"><strong>动画指南</strong></a></h4>
 			</td>
 			<td style="width:265px">
 			<h4><a href="https://cascadeur.com/help/category/45"><strong>绑定指南</strong></a></h4>
@@ -75,7 +75,7 @@ Cascadeur是一款无需动作捕捉即可创建角色动画的软件。使用�
 			<h4><a href="Tools/tools.md"><strong><img alt="" src="https://cascadeur.com/images/category/2020/01/15/6efcab3937479bae6b5500a9a909a9ee.png" style="height:145px; width:310px"></strong></a></h4>
 			</td>
 			<td>
-			<h4><a href="http://cascadeur.com/help/category/46"><img alt="" src="https://cascadeur.com/images/category/2019/11/12/d99c5d579aa3fd5aea16d009dd982e55.png" style="height:145px; width:310px"></a></h4>
+			<h4><a href="Animation/animation.md"><img alt="" src="https://cascadeur.com/images/category/2019/11/12/d99c5d579aa3fd5aea16d009dd982e55.png" style="height:145px; width:310px"></a></h4>
 			</td>
 			<td style="width:265px">
 			<h4><a href="http://cascadeur.com/help/category/45"><img alt="" src="https://cascadeur.com/images/category/2019/11/12/39e0cc47f8bee997f9251ed7dfe64f5a.png" style="height:145px; width:310px"></a></h4>
